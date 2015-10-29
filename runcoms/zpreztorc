@@ -31,7 +31,11 @@ zstyle ':prezto:load' pmodule \
   'directory' \
   'spectrum' \
   'utility' \
+  'git' \
+  'tmux' \
+  'node' \
   'completion' \
+  'syntax-highlighting' \
   'prompt'
 
 #
